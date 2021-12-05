@@ -1,0 +1,8 @@
+#Site Settings
+locale             : "en-US"
+title              : "Title"
+title_separator    : "-"
+subtitle           : # site tagline that appears below site title in masthead
+name               : "suyeony"
+description        : "Portfolio."
+url                : "https://chasuyeony.github.io"
